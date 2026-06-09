@@ -42,4 +42,4 @@ Development Start: 13 June 2026
 
 ## Founder
 
-Smart Approach
+Mohammad Nadeem Ahmad 
